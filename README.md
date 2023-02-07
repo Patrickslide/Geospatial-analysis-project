@@ -1,5 +1,5 @@
 # Geospatial analysis and representation for Data Science - Final Project
-*Disclaimer:* All data was treated according to the license of use present on external sources (mainly Booking), and for this reason I ask to anyone who would be interested in this project to not publish the results as they are intended to be for personal use; 
+**Disclaimer:** All data was treated according to the license of use present on external sources (mainly Booking), and for this reason I ask to anyone who would be interested in this project to not publish the results as they are intended to be for personal use; 
 
 For this project my goal was to create a script meant to compute travel and accomodation time for holiday purposes, from any given city to any other within the same region. 
 The script works, but due to computation constraints (mainly the amount of RAM available to me), I was only able to make it run on a province base, meaning computing travel and accomodations for cities within the same province.
@@ -14,7 +14,7 @@ Since this work is supposed to be interactive and provide different outputs base
 Despite its limitations I consider it to be a good way to display a practical use of geographical and spatial informations to provide help and insights to those who seek accomodations and would be interested to see if there are any relationships between a Hotel's price and position within a given territory.
 
 
-*Important notes:* this work mainly uses data obtained by matching Booking results with Openstreetmap data gathered using overpass API and, for this reason, some results may not appear and, as such, the prices estimated will not necessarily take into account other alternatives in the same area.
+**Important notes:** this work mainly uses data obtained by matching Booking results with Openstreetmap data gathered using overpass API and, for this reason, some results may not appear and, as such, the prices estimated will not necessarily take into account other alternatives in the same area.
 Furthermore, prices are always computed at the present day, while they tend to change over the year based on tourist seasons.
 I included in the code a brief explanation on how to change the starting date, but I still believe it to be worth mentioning.
 The distance is based on car travel as this is the main focus and the reason I computed highway and freeway costs, using other means of transportation would of course result in different prices and travelling times from those presented here which aren't necessarily optimized.
