@@ -2,7 +2,7 @@
 **Disclaimer:** All data was treated according to the license of use present on external sources (mainly Booking), and for this reason I ask to anyone who would be interested in this project to not publish the results as they are intended to be for personal use; 
 
 For this project my goal was to create a script meant to compute travel and accomodation time for holiday purposes, from any given city to any other within the same region. 
-The script works, but due to computation constraints (mainly the amount of RAM available to me), I was only able to make it run on a province base, meaning computing travel and accomodations for cities within the same province.
+The script works, but due to computation constraints (mainly the amount of RAM available to me), I was only able to make it run on a province base, meaning computing travel and accomodations for cities within the same province. The whole project was made using Google Colab, make sure to use the proper libraries if applying it to other kinds of compilers.
 
 Here is a rundown of the content in this Github Folder:
 - **code** this repository contains the main code, divided in 3 parts. The reason I did this was to better describe each step and provide some context.
