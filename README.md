@@ -20,6 +20,13 @@ I included in the code a brief explanation on how to change the starting date, b
 The distance is based on car travel as this is the main focus and the reason I computed highway and freeway costs, using other means of transportation would of course result in different prices and travelling times from those presented here which aren't necessarily optimized.
 
 
+## References:
+- https://blog.devgenius.io/exploratory-data-analysis-of-hotel-booking-demand-a-case-study-4a27bff589ca
+- https://jovian.com/bhupeshchandrawanshi/web-scraping-project-scraping-hotel-list
+- https://towardsdatascience.com/loading-data-from-openstreetmap-with-python-and-the-overpass-api-513882a27fd0
+- https://towardsdatascience.com/exploring-machine-learning-for-airbnb-listings-in-toronto-efdbdeba2644
+
+
 
 
 
