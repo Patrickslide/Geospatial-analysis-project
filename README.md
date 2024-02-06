@@ -8,7 +8,7 @@ Here is a rundown of the content in this Github Folder:
 - **code** this repository contains the main code, divided in 3 parts. The reason I did this was to better describe each step and provide some context.
 It also includes a working version of the script, named *trip_calculator_demo.ipynb*, where I tested the code on a travel from Sassuolo to the city of Modena.
 - **resources** here are the files you should download locally in the same environment you want to run the code, specifically the 3<sup>rd</sup> part which uses R to perform a statistical analysis. 
-- *Trip_calculator.ipynb* is the version you want to use if you only want to test the code without bothering to examine the script or have intermediate outputs.
+- *Trip_calculator.py* is the version you want to use if you only want to test the code without bothering to examine the script or have intermediate outputs.
 
 Since this work is supposed to be interactive and provide different outputs based on the settings you specify, for the R part I chose to focus on a specific city and conditions (a trip to Rimini, with prices for 2 people staying for 2 nights) and performed statistical analysis with these specific terms.
 Despite its limitations I consider it to be a good way to display a practical use of geographical and spatial informations to provide help and insights to those who seek accomodations and would be interested to see if there are any relationships between a Hotel's price and position within a given territory.
